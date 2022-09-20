@@ -1,0 +1,4 @@
+#Mon Sep 19 15:26:47 ICT 2022
+base.0=E\:\\Data\\Git\\fake_insight\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
